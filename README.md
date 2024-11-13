@@ -1,1 +1,1 @@
-# terraform-lesson
+# terrafrom-lambda
